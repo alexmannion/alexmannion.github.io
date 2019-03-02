@@ -44,9 +44,10 @@ ul.posts li { list-style: none; }
     font-size: 1rem;
     text-align: center;
     color: #8c8c8c;
+	font-weight: bold;
     text-shadow: 1px 1px 1px #000;
     border-radius: 5px;
-    background-color: rgb(161, 96, 49);
+    background-color: #999999;
     background-image: linear-gradient(to top left,
                                       rgba(0, 0, 0, .2),
                                       rgba(0, 0, 0, .2) 30%,
@@ -56,7 +57,7 @@ ul.posts li { list-style: none; }
 }
 
 .styled:hover {
-    background-color: rgb(255, 211, 163);
+	text-decoration: underline orange;
 }
 
 .styled:active {
