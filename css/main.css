@@ -1,10 +1,10 @@
 body { 
 	margin: 60px auto; 
 	width: 70%; 
-	background-image: url("https://i.imgur.com/pnge2Cx.png");
+	background-image: url("https://i.imgur.com/pRgnh1B.png");
 }
 
-a { text-decoration: none; color: #404040; }
+a { text-decoration: none; color: #b3b3b3; }
 a:hover { text-decoration: underline orange; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #e6e6e6; }
@@ -31,7 +31,7 @@ ul.posts li { list-style: none; }
     padding: 0 20px;
     font-size: 1rem;
     text-align: center;
-    color: #fff;
+    color: #ffcc99;
     text-shadow: 1px 1px 1px #000;
     border-radius: 5px;
     /*background-color: rgba(225, 90, 0, 1);*/
@@ -44,7 +44,7 @@ ul.posts li { list-style: none; }
 }
 
 .styled:hover {
-    background-color: rgba(255, 120, 0, 1);
+    background-color: rgb(255, 211, 163);
 }
 
 .styled:active {
