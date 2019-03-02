@@ -43,7 +43,7 @@ ul.posts li { list-style: none; }
     padding: 0 20px;
     font-size: 1rem;
     text-align: center;
-    color: #8c8c8c;
+    color: #e6e6e6;
 	font-weight: bold;
     text-shadow: 1px 1px 1px #000;
     border-radius: 5px;
@@ -58,6 +58,7 @@ ul.posts li { list-style: none; }
 
 .styled:hover {
 	text-decoration: underline orange;
+	background-color: #b3b3b3;
 }
 
 .styled:active {
