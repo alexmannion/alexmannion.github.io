@@ -36,6 +36,16 @@ footer { border-top: 1px solid #595959; font-size: .8em; }
 ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
 ul.posts li { list-style: none; }
 
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+
 /* textbox */
 .styled {
     border: 0;
