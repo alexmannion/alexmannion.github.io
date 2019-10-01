@@ -9,7 +9,7 @@ a:hover { text-decoration: underline orange; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #e6e6e6; }
 
-h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+h1, h2, h3, h4, h5 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { 
 	font-size: 3em;  
 	color: #e6e6e6;
@@ -28,7 +28,7 @@ h4 {
 }
 h5 { 
 	font-size: 0.9em; 
-	color: 	#D3D3D3;
+	color: 	#cccccc;
 	padding: 0.1em;
 }
 
