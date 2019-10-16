@@ -8,7 +8,7 @@ Modular Half-Timbered-House Break-down
 ===============
 
 After 5 weeks I completed the first assignment of Vince Joyal's Advanced Seminar environment art class<br/>
-The goal of the assignment was to recreate a picture with as much modularity as possible. Everything in the left picture is homemade. <br/>
+The goal of the assignment was to recreate a picture closely, and with as much modularity as possible. Everything in the left picture is homemade. <br/>
 ![colombage1](https://i.imgur.com/t4lATKD.png)
 ![colombageRef](https://i.imgur.com/68jCq9E.jpg)<br/>
 
