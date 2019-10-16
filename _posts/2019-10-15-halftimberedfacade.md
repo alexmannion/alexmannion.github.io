@@ -18,11 +18,11 @@ As you can imagine, missteps were bound to happen. Because of this, I will post 
 <br/>
 
 ## Breaking down the picture modularly <br/>
-My method of breaking down the image into modular chunks meant I'd focus 95% of my time working on 3 tiles. I spent 100% of my time working on them for the first 3 weeks.<br/>
-*The door section, the ground-level window section and the top window section that tiles infinitely upwards.*<br/>
-I attribute this working out to sheer luck. If this were a larger project, *(i.e. what Vince has me working on now)* it would have been a major set-back.<br/>
+My method of breaking down the image into modular chunks meant that I'd focus 95% of my time working on 3 tiles. I ended up spending 100% of my time working on them for the first 3 weeks.<br/>
+I attribute this working out to sheer luck. If this were a larger project, *[i.e. what Vince has me working on now](http://alexmannion.me/blog/2019/10/17/darkagesblockout)*, it would have been a major set-back.<br/>
 Still, noticing I still had 3 tiles left to make at week 3 scarred me. This will be the last time I make modules without planning ahead.<br/>
 **Moral of the story:** Break down all modular pieces into segments before you start modeling. By all, I mean every last piece. <br/>
+
 ![colombageModularityBreakdown](https://i.imgur.com/8CSyv1M.jpg)<br/>
 *This can even be done with Microsoft Paint* ;)<br/>
 <br/>
@@ -37,6 +37,8 @@ Base-1 gave me the freedom to use half-walls for both 1x2 or 2x4 and stay within
 Although I ended up with some scale issues around the door in correlation to the ref. image, that was an overseight rather than technical issue.<br/>
 **Take-away:** Base your scale around things in your scene that have a standardized real-world scale, such as doors, table height, steps, etc. <br/>
 Remember not to alter the scale of the object you based your project scale around. This was easily my most costly mistake.<br/> 
+
+![ColombageModules](https://i.imgur.com/ChFjKBe.png)<br/>
 <br/>
 
 ## Using multiple elements to make 1 object <br/>
@@ -45,6 +47,7 @@ Knowing this at the start would greatly have improved my workflow, as each of th
 If I hadn't welded them and left them separated, I could have UVd one, then duplicated it and offset the UV on my material.<br/>
 This would have saved hours in the UVing process, and relieved a lot of frustration.<br/>
 <br/>
+
 
 ## Using master materials and instancing within UE4 <br/>
 Master materials are essentially just standard materials (with maps like roughness, normal, AO, etc.) only more efficient on performance and design.<br/>
@@ -58,7 +61,7 @@ I made my glass sub-material translucent, as to allow for more interesting inter
 My greatest discovery during this process was when I made a curtain using the WorldPosOffset material input.<br/>
 I took a 2x2 subdivided plane in Max, UVW plannar mapped it, imported it into UE4, and applied a material with SimpleGrassWind plugged into WorldPosOffset. <br/>
 The material itself was made in Photoshop by taking a gradient, leveling it, rotating it 180 degrees and multiplying the layer. <br/>
-**Take-away:** UE4 has hundreds of blueprint nodes for a reason. Sometimes getting creative with them could save tremendous amounts of time.<br/>
+**Take-away:** UE4 has hundreds of blueprint nodes for a reason. Sometimes getting creative with them could save tremendous amounts of time in Max and Designer.<br/>
 <br/>
 
 ## Conclusion <br/>
