@@ -9,7 +9,8 @@ Modular Half-Timbered-House Break-down
 
 After 4 weeks I completed the first assignment of Vince Joyal's Advanced Seminar environment art class<br/>
 The goal of the assignment was to recreate a picture as closely as possible in 3D. Everything in the left picture is homemade. <br/>
-![colombage1](colombage1.jpg)
+![colombage1](https://imgur.com/t4lATKD)
+![colombageRef](https://imgur.com/68jCq9E)
 
 
 Click [here](https://www.artstation.com/dnompal) to go to my Artstation.<br/>
