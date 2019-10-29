@@ -33,7 +33,7 @@ After the plane for the module was created, I deleted the UE4 reference, exporte
 
 ## Modeling
 This week my goal was to model roughly 40%-50% of the modules. I primarily wanted to establish some base-level detail on most assets.<br/>
-<img src="https://i.imgur.com/PnKlrgg.png" width="400" height="380" /><br/>
+<img src="https://i.imgur.com/QjscV6U.png" width="400" height="380" /><br/>
 *One of my more detailed modules at the moment*<br/>
 I had some questions to ask Vince however, so I ended up holding off on modeling rooves and much of the front left building.<br/>
 Now that we've had class, my questions have been answered, and I've recieved some direction, I'll be back to modeling ASAP.<br/>
