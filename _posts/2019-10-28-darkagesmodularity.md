@@ -8,7 +8,7 @@ Dark Ages, concept by [Vladimir Manyukhin](https://www.artstation.com/artwork/5y
 ===============
 
 This environment is being developed for Vince Joyal's Advanced Seminar in Game Environments class.<br/>
-The purpose is to recreate a picture or concept art as closely as possible, with an enthesis on modularity and tiling textures.<br/>
+My goal is to work off of concept art, and maintain an enthesis on modularity and tiling textures.<br/>
 ### The concept
 <img src="https://cdnb.artstation.com/p/assets/images/images/011/268/535/large/vladimir-manyukhin-dark-ages.jpg?1528716831" width="546" height="300" /><br/>
 ### My scene at the end of week 2
