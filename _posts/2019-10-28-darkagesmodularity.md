@@ -32,15 +32,15 @@ After the plane for the module was created, I deleted the UE4 reference, exporte
 <br/>
 
 ## Modeling
-This week my goal was to model roughly 40%-50% of the modules. I primarily wanted to establish some base-level detail on most assets.<br/>
-<img src="https://i.imgur.com/QjscV6U.png" width="400" height="380" /><br/>
-*One of my more detailed modules at the moment*<br/>
+This week my goal was to model roughly 40%-50% of the modules. I primarily wanted to create some base-level detail on most modules.<br/>
 I had some questions to ask Vince however, so I ended up holding off on modeling rooves and much of the front left building.<br/>
 Now that we've had class, my questions have been answered, and I've recieved some direction, I'll be back to modeling ASAP.<br/>
 My goal for the next week is to finish modeling all foreground and most midground assets.<br/>
 Background assets and props are being put on hold as I may end up extending the scene beyond what's in the concept.<br/>
 This would mean that some background assets and props could end up requiring less/more detail, or even be removed entirely.<br/>
 Best to avoid time waste for an already ambitious project.<br/>
+<img src="https://i.imgur.com/QjscV6U.png" width="400" height="380" /><br/>
+*One of my more detailed modules at the moment*<br/>
 <br/>
 
 ## Reflection on Week 1
