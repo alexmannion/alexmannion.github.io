@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dark Ages - Week 1: Blockout"
-date: 2019-10-17
+date: 2019-10-19
 ---
 
 Dark Ages, concept by [Vladimir Manyukhin](https://www.artstation.com/artwork/5yKeO)
