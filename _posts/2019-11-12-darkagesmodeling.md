@@ -44,7 +44,7 @@ The third, is that getting feedback is essential.<br/>
 I've seen many people steamroll advice with excuses and hesitation, but even non-artists carry with them fresh perspective. 
 In my case however, I'm lucky enough to attend a college with alumni, professors and students alike, willing to give feedback and help online. 
 I'd like to thank alumni [Matthew Dismuke](https://www.artstation.com/mattd) and [Sean Napolitano](https://www.artstation.com/sean_napolitano) for their insightful feeback, 
-and 4th year student [Max Laudenslager](https://www.artstation.com/artwork/xzy8WE) for creating and maintaining the Champlain Game Art discord server in the first place. 
+and 4th year student [Max Laudenslager](https://www.artstation.com/maxlaudenslager) for creating and maintaining the Champlain Game Art discord server in the first place. 
 Before this year I mostly waited until last minute for critique, rendering it basically useless given how limited my time remaining was. 
 **So basically** when you have people willing to give you feedback, 
 always accept it and consider it.<br/>
