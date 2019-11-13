@@ -57,7 +57,7 @@ Replacing my to-scale blockout planes was incredibly easy, and now I have a real
 **Lesson learned** Solidifying blockouts before moving onto modeling is essential for an efficient workflow.<br/>
 <br/> 
 <br/>
-I'll be posting an update next week, make sure to check back in this coming Tuesday if you're interested in seeing my progress! 
+I'll be posting an update in 2 weeks, so make sure to check back in if you're interested in seeing my progress! 
 If you have any critique, advice, comments, questions, or anything else, feel free to contact me using my information below.<br/>
 <br/> 
 
