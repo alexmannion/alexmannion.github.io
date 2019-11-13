@@ -20,7 +20,7 @@ My goal is to work off of concept art, and maintain an enthesis on modularity an
 
 
 ## Modeling
-These past 2 weeks were spent modeling everything remaining, and differentiating my work from the concept. 
+These past 2 weeks were spent finishing up the modeling process, and differentiating my work from the concept. 
 Before I deviated too heavily however, I made some key realizations that helped me find my direction. 
 
 ### Exaggerate shapes
@@ -51,17 +51,26 @@ always accept it and consider it.<br/>
 That being said, paying it forward is a good thing to do as well. 
 <br/>
 
-### Making rocks and sticks
+### Organic modeling
 While using height maps as displacement maps in zBrush to create piles of rocks is one way to do it, for my scene, I decided to make my rocks/stones individually, and in 3DSMax. 
 My process was very similar for sticks as well. I imagine most Max users find this common knowledge so I'll be brief. 
-I created 6 rocks in basically the same way, and reused them all over my scene. This process begins with creating a simple rectangle. 
+I created 6 different rocks basically the same way, and reused them all over my scene. This process begins with creating a simple rectangle. 
 When I did this, I made sure generate mapping coords was turned on. I then applied a turbo smooth modifier and set it to smooth between levels 2 and 4. 
 Then I added a noise modifier, turned fractal on, and played with values until I got something good looking. 
 *Small side-note:* While the rocks were UVd properly, it's important to know that I will have to adjust the texel density for the texture to look correct. 
 Finding this method saved me a ton of time, which I was soon able to use elsewhere, and really justified having these small props in such a large scene. 
 <br/>
 
-## Using my caravan generator
+## Post-Processing & Fog
+At the top of this post, I'm sure you immediately noticed my useage of fog and post-processing. 
+While it seems to be a debated topic, I find adding post-processing earlyish on in the modeling process is a help. 
+It's similar to how adding lighting early on helps you think about cast shadows and light intensity, 
+but instead of that, you get to see how changing ambient occlusion levels, white balance, exposure, etc. will change your environment. 
+These things go hand in hand in adding depth to your scene. 
+To clarify, these things don't supersede the importance of good modeling, but for me it has really helped with visualizing my end result. 
+<br/>
+
+## I used my caravan generator!
 I've done many things in my life that people question heavily, but making a procedural caravan generator for my Technical Art final was likely the most heavily questioned. 
 I myself never fully understood the practical uses for it really, I just thought it sounded fun to make. However, I can now say I used it in a way that saved me some time. 
 In the most recent screenshot, the lighting is hiding a lot of the foreground (I've already fixed this, but that'll be for next week's post), 
@@ -69,16 +78,6 @@ but there's a cart that actually has wheels that were made, UVd and scaled by my
 I'd like to thank past Alex for putting in months of work to save future Alex 10 minutes. 
 <br/>
 
-
-## Post-Processing & Fog
-<img src="https://i.imgur.com/kWoDASn.png" width="546" height="300" /> <br/>
-Above is what my scene looked like after initially adding a small amount of fog and post-processing. 
-While it seems to be a debated topic, I find adding post-processing earlyish on in the modeling process is a help. 
-It's similar to how adding lighting early on helps you think about cast shadows and light intensity, 
-but instead of that, you get to see how ambient occlusion and white balance will change your environment. 
-These things go hand in hand in adding depth to your scene. 
-This doesn't supersede the importance of good modeling, but for me it has really helped with visualizing my end result. 
-<br/>
 
 ## Reflection on Week 2
 Week 2 was definitely not as productive as it could have been. I ended up having to go back to fix some modularity issues, and fix that naming convention I mentioned in my last post. 
