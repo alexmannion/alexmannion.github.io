@@ -71,7 +71,7 @@ I'd like to thank past Alex for putting in months of work to save future Alex 10
 
 
 ## Post-Processing & Fog
-<img src="https://i.imgur.com/kWoDASn.png" width="546" height="300" />
+<img src="https://i.imgur.com/kWoDASn.png" width="546" height="300" /> <br/>
 Above is what my scene looked like after initially adding a small amount of fog and post-processing. 
 While it seems to be a debated topic, I find adding post-processing earlyish on in the modeling process is a help. 
 It's similar to how adding lighting early on helps you think about cast shadows and light intensity, 
