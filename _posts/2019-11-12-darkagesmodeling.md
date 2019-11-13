@@ -35,7 +35,7 @@ This is advice passed down by Vince Joyal that had a really strong impact on me.
 From early on I was planning out how I'd "cut out the sky", but as I broke free of the concept, I had some new plans. 
 The idea to add another building in the mid-background and a well, came spontaneously a day before my most recent milestone. 
 I quickly blocked out the well, and copied one of my other buildings, replaced modules, and realized they were there to stay. 
-The only real detail I'd decided to add messing around were the ropes on the houses in the front. 
+The only real detail I'd planned to add before messing around were the ropes on the houses in the front. 
 **The bottom-line is,** don't be afraid of experimentation, especially when you already have modules.
 Modeling in too much detail has yet to be a problem in my experience as well, so modeling in cuts and warps will go a long ways.
 
