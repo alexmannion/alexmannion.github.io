@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dark Ages - Weeks 5&6: Texturing"
-date: 2019-11-12
+date: 2019-11-26
 ---
 
 Dark Ages, concept by [Vladimir Manyukhin](https://www.artstation.com/artwork/5yKeO)
