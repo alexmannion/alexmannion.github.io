@@ -77,6 +77,6 @@ This dawned on me after posting my week 4 screenshot for critique, and since the
 <br/>
 I decided to only post updates when substantial progress has been made. My next update will likely be after the project is done, and it will be in the form of a reflection. <br/>
 Since it took so long for me to update this blog post, I'll share my current progress below. Make sure to check in for my reflection and final images next week!<br/>
-<img src="https://i.imgur.com/cj0I8Fu_d.jpg?maxwidth=4000&shape=thumb&fidelity=medium" width=="546" height="300" />
+<img src="https://i.imgur.com/cj0I8Fu_d.jpg?maxwidth=4000&shape=thumb&fidelity=medium" width="546" height="300" />
 <br/> 
 
