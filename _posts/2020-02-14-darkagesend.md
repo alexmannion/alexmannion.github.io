@@ -29,8 +29,6 @@ Below is the unabridged article that I wrote for EXP, I hope you enjoy. <br/>
 # The Dark Ages Breakdown
 ## With insights and advice for beginners
 
-<br/>
-
 Tips for new 3D artists, and a breakdown of The Dark Ages. 
 
 I’m Alex Mannion, a third-year Game Art & Animation major at Champlain College. 
@@ -59,7 +57,6 @@ but it cuts time in a major way, and will help you make more from less. <br/><br
 
 As for what I added to the scene and why; I’ve included the paint-over below. Things that are highlighted are some of my favorite additions/changes I made from the original concept.<br/>
 <img src="https://i.imgur.com/uDAuPeN.jpg" width="546" height="300" /><br/><br/>
-
 
 **Crates and barrels!** - I made 1 type of crate, and 1 type of barrel, both using my wood material I created for the actual buildings. For more intricate props, you’d want to bring them into Substance Painter, but I was able to not only reuse 1 material and avoid Painter altogether, but I was able to reuse these 2 props all over my scene. Slightly adjusting scale and rotation of these objects was enough to keep the same exact objects from feeling overly repetitive.
 <br/><br/>
@@ -94,6 +91,7 @@ In the background you can see entirely new buildings created quickly within engi
 
 Thankfully, at the same time as I was taking Advanced Seminar in Game Environments, I was taking a class involving the development of procedural materials in Substance Designer, with instructor Scott Johnston. 
 I’d had about 3 hours of instruction in Substance Designer before-hand, and had a really loose grasp of it, but I knew I’d love it in time.
+<br/>
 During our first assignment in that class, I decided that for our final environment, I’d try to texture my scene entirely in Substance Designer, and with the exception of the red banner in the background, 
 I accomplished this. I made an exception for the banner because I thought it needed some sort of symbol, which would have been a waste of time to make in designer, and Substance Painter had some good grunge generators. 
 I just used a red base color, a leaf brush, and some dirt generators/masks.
@@ -129,7 +127,7 @@ As you can see above, I started out with really simple shapes, and didn’t try 
 I highly recommend this, as it gave my scene more individuality, helped me break free of the concept, and now I can walk around my scene free of wonky perspective.
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zOakXEqiD5Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><br/>
+<br/>
 
 ### Week 4: “Finishing” Modeling
 
@@ -150,7 +148,6 @@ At this point I’d already deviated a fair bit from the concept, but there was 
 I decided the foreground needed some more interesting elements, so I added some crates and planks just lying around. I’d already made barrels, so I just spread them around some more. 
 In the coming weeks, the scene was finally starting to get broken in.<br/>
 
-
 ### Week 6: “Finishing” Texturing
 
 By the end of week 6 I was supposed to have all of my textures created and assigned. While of course improvements were bound to happen, I decided I should have material IDs and materials sorted at this point. 
@@ -163,7 +160,7 @@ In the coming weeks I got rid of the emissive window material (as seen on the ri
 <br/><br/>
 By the end of the week, I’d leaned away from the blue lighting, and wanted everything to be desaturated, but still feel alive. 
 I decided I needed some foliage to break up all of the yellow, blues and browns, but I also sensed that the lighting was still missing something. So that’s when I decided to up the gamma and exposure, and play around with fog.
-<br/><br/>
+<br/>
 
 ### Week 8: Wrapping it up
 
@@ -173,7 +170,7 @@ It took a while to realize what feeling I was searching for from this image, but
 <br/><br/>
 <img src="https://cdna.artstation.com/p/assets/images/images/022/621/526/large/alex-mannion-screenshot1.jpg?1576097848" width="546" height="300" /><br/><br/>
 
-I did 3 things of note in the final week that I believe are worth talking about in-depth. 
+I did 3 things of note in the final week that I believe are worth talking about in-depth. <br/>
 **The first**, is adding fake volumetric fog planes. [Click here](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/108372-fake-fog-volume-tutorial) for a link to the guide I followed to create this effect. 
 I used the guide as a base, but went a step further and used masks so that I could blend fog more seamlessly. The graph for creating my masked version is below. 
 The texture sample you see could be exposed to use different masks with instances, but I only relied on a very simple bell-shaped mask I exported as an alpha from Substance Designer. 
