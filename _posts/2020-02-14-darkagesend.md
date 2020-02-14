@@ -4,12 +4,11 @@ title: "The Dark Ages - What's Up?"
 date: 2020-02-14
 ---
 
-*Dark Ages*, concept by [Vladimir Manyukhin](https://www.artstation.com/artwork/5yKeO)
+Dark Ages, concept by [Vladimir Manyukhin](https://www.artstation.com/artwork/5yKeO)
 ===============
 
 This environment was developed for Vince Joyal's Advanced Seminar in Game Environments class.<br/>
 My goal was to work off of concept art, but maintain an enthesis on modularity and tiling textures.<br/>
-Reusability is key.<br/>
 ## My finished image
 <img src="https://cdna.artstation.com/p/assets/images/images/022/621/526/large/alex-mannion-screenshot1.jpg?1576097848" width="546" height="300" /><br/>
 
@@ -62,19 +61,19 @@ As for what I added to the scene and why; I’ve included the paint-over below. 
 <img src="https://i.imgur.com/uDAuPeN.jpg" width="546" height="300" /><br/><br/>
 
 
-Crates and barrels! - I made 1 type of crate, and 1 type of barrel, both using my wood material I created for the actual buildings. For more intricate props, you’d want to bring them into Substance Painter, but I was able to not only reuse 1 material and avoid Painter altogether, but I was able to reuse these 2 props all over my scene. Slightly adjusting scale and rotation of these objects was enough to keep the same exact objects from feeling overly repetitive.
+**Crates and barrels!** - I made 1 type of crate, and 1 type of barrel, both using my wood material I created for the actual buildings. For more intricate props, you’d want to bring them into Substance Painter, but I was able to not only reuse 1 material and avoid Painter altogether, but I was able to reuse these 2 props all over my scene. Slightly adjusting scale and rotation of these objects was enough to keep the same exact objects from feeling overly repetitive.
 <br/><br/>
-Overhang! - Suggested by my instructor, the overhang was accomplished by taking an 8 meter tall post, moving a single edge out so that the overhanging side was angled by about 5 degrees. I assigned my stucco material, and moved the angled post beside my brick wall. I then put a cap segment (the thicker wooden plank) next to the angled post, and copied the front facing wall, rotated it, tilted it, and bam. Overhang. I also added a floor of course, which is the same mesh as the cap, just rotated 90 degrees. I also made supports for the overhang, but ended up using them all over the scene. The rock corners that are highlighted in blue were used to obscure the angled piece, but more importantly to break up silhouette, and repetivity.
+**Overhang!** - Suggested by my instructor, the overhang was accomplished by taking an 8 meter tall post, moving a single edge out so that the overhanging side was angled by about 5 degrees. I assigned my stucco material, and moved the angled post beside my brick wall. I then put a cap segment (the thicker wooden plank) next to the angled post, and copied the front facing wall, rotated it, tilted it, and bam. Overhang. I also added a floor of course, which is the same mesh as the cap, just rotated 90 degrees. I also made supports for the overhang, but ended up using them all over the scene. The rock corners that are highlighted in blue were used to obscure the angled piece, but more importantly to break up silhouette, and repetivity.
 <br/><br/>
-Scaffolds! - While a massive scaffold was included in the original concept, I thought it’d be cool to put those pieces all over the place. Vince inspired me to copy the structure and move it around, which I did, but I then made some additional changes to give the individual scaffolds their own individuality (while still using the same pieces of course).
+**Scaffolds!** - While a massive scaffold was included in the original concept, I thought it’d be cool to put those pieces all over the place. Vince inspired me to copy the structure and move it around, which I did, but I then made some additional changes to give the individual scaffolds their own individuality (while still using the same pieces of course).
 <br/><br/>
-Well! - While the stone wall edges helped to break up the silhouette of the midground, I felt it needed something more. This was really the first big step I took outside of Manyukhin’s concept, and the one that got me to feel comfortable making changes. I slapped a noise filter on a hollowed out cylinder in 3DSMax, then applied my stone texture. The roof of the well is the same roof that’s on the building to the right of it, just scaled and with some added individual shingles to give it a more man-made feeling.
+**Well!** - While the stone wall edges helped to break up the silhouette of the midground, I felt it needed something more. This was really the first big step I took outside of Manyukhin’s concept, and the one that got me to feel comfortable making changes. I slapped a noise filter on a hollowed out cylinder in 3DSMax, then applied my stone texture. The roof of the well is the same roof that’s on the building to the right of it, just scaled and with some added individual shingles to give it a more man-made feeling.
 <br/><br/>
-Flags! - At the start of the project, I used the cinematic camera in UE4 to divide the scene into a 3x3 grid. When I added the flags, I looked at the grid and felt that there was really nothing breaking up the middle ⅓ of the image. I’d learned that when in doubt, add rope/wires to break up space/lead eyes, so that’s exactly what I did. They ended up doing a really good job separating the front, middle and background. They also lead your eye from building to building, which was an added bonus! If you saw my progress screenshot, you’ll realize that for a while, the ropes didn’t have flags. That’s because I was of the impression that flags were kind of overused in medieval scenes, but when I tried them out, they just felt so right! 
+**Flags!** - At the start of the project, I used the cinematic camera in UE4 to divide the scene into a 3x3 grid. When I added the flags, I looked at the grid and felt that there was really nothing breaking up the middle ⅓ of the image. I’d learned that when in doubt, add rope/wires to break up space/lead eyes, so that’s exactly what I did. They ended up doing a really good job separating the front, middle and background. They also lead your eye from building to building, which was an added bonus! If you saw my progress screenshot, you’ll realize that for a while, the ropes didn’t have flags. That’s because I was of the impression that flags were kind of overused in medieval scenes, but when I tried them out, they just felt so right! 
 <br/><br/>
-Background buildings! - These buildings were added on a whim at around the same time I added the well, and it was made out of entirely pre-made pieces. I just stuck them together, applied different material instances (only in a few cases), and then made subtle adjustments over time. They were made more-so to demonstrate the modularity of my scene than anything else, but they ended up being a crucial part of the composition, and framed the background rather well. Another added bonus!
+**Background buildings!** - These buildings were added on a whim at around the same time I added the well, and it was made out of entirely pre-made pieces. I just stuck them together, applied different material instances (only in a few cases), and then made subtle adjustments over time. They were made more-so to demonstrate the modularity of my scene than anything else, but they ended up being a crucial part of the composition, and framed the background rather well. Another added bonus!
 <br/><br/>
-Weather-vanes! - Weather-vanes were some of the last things that I added. They’re a minor detail, but they helped breakup the skyline. 
+**Weather-vanes!** - Weather-vanes were some of the last things that I added. They’re a minor detail, but they helped breakup the skyline. 
 <br/>
 
 ### Modularity
@@ -137,7 +136,7 @@ I highly recommend this, as it gave my scene more individuality, helped me break
 The task I was given for the end of week 4 was to finish modeling, but accept that I might want to remodel/model more minor props later down the line. 
 While I did eventually go back and model some more smaller modular props, and I remade the stone wall on the bottom left of the image, at the time, I had achieved my goal.<br/>
 
-<img src="https://i.imgur.com/iEXrbQk.png" height="546" width ="300" /><br/><br/>
+<img src="https://i.imgur.com/iEXrbQk.png" height="300" width ="546" /><br/><br/>
 
 The largest change going forward was how the mood is achieved. In the original concept everything was gloomy and dark, and I wasn’t sure how to replicate that feeling in the same way within UE4. 
 Many areas were obscured in shadow, and while there was suggestion, the viewer was still left to wonder what’s going on in the shadows. I decided to take the liberty to expose it, 
@@ -156,7 +155,8 @@ In the coming weeks, the scene was finally starting to get broken in.<br/>
 
 By the end of week 6 I was supposed to have all of my textures created and assigned. While of course improvements were bound to happen, I decided I should have material IDs and materials sorted at this point. 
 At this point I had all of my materials created except for my metal. Everything had UVs, lightmaps and material IDs, with the exception of the castle.<br/>
-<img src="https://i.imgur.com/btWf6w2.jpg" height="546" width ="300" /><br/><br/>
+<img src="https://i.imgur.com/btWf6w2.jpg" height="300" width ="546" /><br/><br/>
+
 I still hadn’t completely figured out lighting, although I had begun placing spotlights and point-lights around to light the scene with more control. Previously I’d only had a single directional light, 
 so the addition of the row of spotlights down the main path, and point-lights from inside the houses are showing off a lot more detail than before, but it’s still not enough. 
 In the coming weeks I got rid of the emissive window material (as seen on the right), and replaced it with small, not very detailed interiors that could be lit and display more light and detail than the emissive could.
