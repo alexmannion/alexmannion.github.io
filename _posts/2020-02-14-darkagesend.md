@@ -185,7 +185,7 @@ I saved out 2 to 3 variations of each of these, and used them all over the place
 All I had to do was adjust the random seed and it changed the disorder of the 2 noises I used, creating unique puddle variants. I also altered the starting shape for increased variation at times. 
 I put these puddles all over, and paired with reflection captures, they helped tremendously with bringing new light and color into areas that were previously uninteresting.
 <br/><br/>
-**The third**, was adding foliage. I downloaded a free image of grass from [textures.com](www.textures.com), warped some planes with the UVs mapped over the texture, used the master material I made for my hay texture, 
+**The third**, was adding foliage. I downloaded a free image of grass from [textures.com](https://www.textures.com), warped some planes with the UVs mapped over the texture, used the master material I made for my hay texture, 
 and placed the prefab all over the scene. I was able to scale it, rotate it, and with the addition of a SimpleGrassWind node, sway it. <br/> 
 
 ## Conclusion
