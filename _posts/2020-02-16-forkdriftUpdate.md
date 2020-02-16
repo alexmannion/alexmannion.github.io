@@ -10,7 +10,7 @@ Forkdrift & Production 2
 
 ## What is Production 2?
 The way the class Production 2 works basically goes as follows;<br/>
-Step 1 - Form a team. On my team, I was the only artist on a 6 person team. We also had 1 producer, 2 designers and 2 programmers. We are known as team **Endless Suffering**.<br/>
+Step 1 - Form a team. I was the only artist on a 6 person team. We also had 1 producer, 2 designers and 2 programmers. We are known as **Endless Suffering**.<br/>
 Step 2 - Spend 3 weeks coming up with game prototypes. Each week is a different prototype. Week 1 we worked on Curb Appeal, Week 2 was Forkdrift, Week 3 was Fish'n.<br/>
 Step 3 - As a team, select your favorite game and work on it for another week. We selected Forkdrift.<br/>
 Step 4 - Present the game in front of the entire Third-Year game studio + spectators. We did, it went well.<br/>
@@ -26,7 +26,7 @@ While this was fun to us, we realized through some informal QA testing that peop
 To remedy this, we brainstormed new modes, and decided that a King of the Hill approach might be better. This will work better in terms of drawing the players together, 
 and forcing players to interact more, as they'll need to work together to get the opposing team away from capture points.<br/>
 We also currently have 1 map for this mode, entitled *Shipyard*, which was created to give players the ability to knock their enemies around a bit more.<br/>
-<iframe src="https://giphy.com/embed/lTRwtSfRfA3bz0So5P" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><br/>
+<iframe src="https://giphy.com/embed/lTRwtSfRfA3bz0So5P" width="480" height="270"></iframe><br/>
 
 ### Why this game tho?
 Well, because it was incredibly fun for all of us to work on, and as an idea, it played to all of our strengths as developers. 
