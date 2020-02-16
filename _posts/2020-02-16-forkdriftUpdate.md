@@ -15,6 +15,7 @@ Step 2 - Spend 3 weeks coming up with game prototypes. Each week is a different 
 Step 3 - As a team, select your favorite game and work on it for another week. We selected Forkdrift.<br/>
 Step 4 - Present the game in front of the entire Third-Year game studio + spectators. We did, it went well.<br/>
 Step 5 - Wait to find out if your game made the cut. Half of the games will be dissolved, and the remaining developers will be dispersed across the remaining games.<br/>
+Step 6 - Onboard new members (or get onboarded) and work on the game for another 10 weeks.<br/>
 
 ## What is Forkdrift?
 Forkdrift is a game that my Production 2 team came up with in our second week of prototyping. The core idea behind Forkdrift came to me in my first Game Development class I took first year. 
@@ -26,17 +27,25 @@ While this was fun to us, we realized through some informal QA testing that peop
 To remedy this, we brainstormed new modes, and decided that a King of the Hill approach might be better. This will work better in terms of drawing the players together, 
 and forcing players to interact more, as they'll need to work together to get the opposing team away from capture points.<br/>
 We also currently have 1 map for this mode, entitled *Shipyard*, which was created to give players the ability to knock their enemies around a bit more.<br/>
-![arg](/images/shipyardpangif.gif "Image Title")<br/>
+![oof](/images/shipyardpangif.gif "ShipyardWIP")<br/>
 
 ### Why this game tho?
 Well, because it was incredibly fun for all of us to work on, and as an idea, it played to all of our strengths as developers. 
 Seeing as I'm primarily an environment artist, I don't have to worry about making characters or 2D art, and can focus on level assets. 
 It also gives me the possibility to take on a Technical Artist role in terms of tool design, and I could take the lead on forklift customization.<br/>
-My teammates are looking forwards to the ability to work on a networked game involving in-depth mechanics and hopefully tons of user-feedback.<br/>
+My teammates are excited to work on a networked game involving in-depth mechanics and hopefully tons of player-feedback. 
+Overall, we can all appreciate the uniqueness of the idea, and its potential, and really enjoy working on it.<br/>
 <br/>
-We don't currently know the fate of Forkdrift, however the council of *gamers* will decide before the day is out.<br/>
-<br/>
--- post WIP -- <br/>
+
+### Did Forkdrift make the cut?
+Yes! Forkdrift will be developed for the rest of the semester by Endless Suffering. Currently the team is as follows;<br/>
+Abs Harrop - UI/UX Designer<br/>
+Adam Clarke - Co-Lead Programmer/Product Owner<br/>
+Alex Mannion - 3D Environments Artist<br/>
+Grady Mayo - Co-Lead Programmer<br/>
+Max Weintraub - Systems & Mechanics Designer<br/>
+Zach Frye - Lead Producer
+
 
 ## Ok so.. Forklift?
 
