@@ -52,7 +52,7 @@ created a level, and made the forklift driving feel unbelievably amazing conside
 ## Forklift!
 
 **Forklift.**<br/>
-<img src="https://i.giphy.com/media/W1fmSx8nPhaqVz9iVD/giphy.webp" width="480" height="270" /><br/><br/>
+<img src="https://i.giphy.com/media/W1fmSx8nPhaqVz9iVD/giphy.webp" width="480" height="270" frameBorder="0" /><br/><br/>
 
 <br/> 
 
