@@ -26,7 +26,7 @@ While this was fun to us, we realized through some informal QA testing that peop
 To remedy this, we brainstormed new modes, and decided that a King of the Hill approach might be better. This will work better in terms of drawing the players together, 
 and forcing players to interact more, as they'll need to work together to get the opposing team away from capture points.<br/>
 We also currently have 1 map for this mode, entitled *Shipyard*, which was created to give players the ability to knock their enemies around a bit more.<br/>
-<iframe src="https://media.giphy.com/media/QwtqFL61bwjVHZU9yp/giphy.gif" width="640" height="404"></iframe><br/>
+![Semantic description of image](/gifs/shipyardpangif.gif "Image Title")<br/>
 
 ### Why this game tho?
 Well, because it was incredibly fun for all of us to work on, and as an idea, it played to all of our strengths as developers. 
