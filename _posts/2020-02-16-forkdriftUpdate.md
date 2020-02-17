@@ -44,8 +44,11 @@ Adam Clarke - Co-Lead Programmer/Product Owner<br/>
 Alex Mannion - 3D Environments Artist<br/>
 Grady Mayo - Co-Lead Programmer<br/>
 Max Weintraub - Systems & Mechanics Designer<br/>
-Zach Frye - Lead Producer
-
+Zach Frye - Lead Producer<br/>
+<br/>
+Here's the trailer! <br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5-AupsD2iIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
 
 ## Ok so.. Forklift?
 
@@ -61,7 +64,7 @@ created a level, and made the forklift driving feel unbelievably amazing conside
 ## Forklift!
 
 **Forklift.**<br/>
-<img src="https://i.giphy.com/media/W1fmSx8nPhaqVz9iVD/giphy.webp" width="480" height="270" frameBorder="0" /><br/><br/>
+![oof](/images/forkdriftalphagif.gif)<br/><br/>
 
 <br/> 
 
