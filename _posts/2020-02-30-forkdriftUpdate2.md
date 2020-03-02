@@ -69,7 +69,7 @@ This was a really nice start to our new team because we knew our new memebers wa
 <br/><br/>
 I think so far, we're all happy with the transition, and are somehow communicating even better. 
 All of us, both the original memebers of Endless Suffering and the new ones, were concerned about the transition. 
-After 2 weeks with our new team, it seems as though everyone has fallen into place, the gears are turning, and I'm very much looking forwards to the future of Frokdrift.
+After 2 weeks with our new team, it seems as though everyone has fallen into place, the gears are turning, and I'm very much looking forwards to the future of Forkdrift.
 <br/>
 
 ## Forklift!
