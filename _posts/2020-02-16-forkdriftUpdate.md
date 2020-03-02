@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Forkdrift Blog Post"
+title: "What is Forkdrift?"
 date: 2020-02-16
 ---
 
