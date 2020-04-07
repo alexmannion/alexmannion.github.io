@@ -19,7 +19,7 @@ I was originally set up to take on the role of a technical artist, which I still
 It has been a nice change of pace from working on my current adv. seminar piece, although it has been a struggle switching back and forth between realism and stylized so regularly. 
 And like I said, I still have some technical responsibilities such as dealing with the transition to URP, all lighting-related setup, and creating new gradient materials which will expedite our texturing process.
 <br/>
-![oof](/images/updatedlighting.png)
+![oof](/images/updatedlighting47.png)
 
 <br/>
 
