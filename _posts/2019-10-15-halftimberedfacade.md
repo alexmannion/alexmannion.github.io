@@ -56,14 +56,6 @@ I was able to reuse one master material for 3 of the 4 materials in my scene.<br
 *Thanks to [Leanna Russell](https://www.artstation.com/leannarussell) for helping me set that up.* <br/>
 <br/>
 
-## Making curtains using 3DS Max and UE4 within 5 minutes <br/>
-I made my glass sub-material translucent, as to allow for more interesting interiors which break up the monotonous modularity in the image.<br/>
-My greatest discovery during this process was when I made a curtain using the WorldPosOffset material input.<br/>
-I took a 2x2 subdivided plane in Max, UVW plannar mapped it, imported it into UE4, and applied a material with SimpleGrassWind plugged into WorldPosOffset. <br/>
-The material itself was made in Photoshop by taking a gradient, leveling it, rotating it 180 degrees and multiplying the layer. <br/>
-**Take-away:** UE4 has hundreds of blueprint nodes for a reason. Sometimes getting creative with them could save tremendous amounts of time in Max and Designer.<br/>
-<br/>
-
 ## Conclusion <br/>
 This project was a major learning experience for me, and now that I have the software and workflow experience,<br/>
 I'll be able to tackle some significantly larger scale projects in the future with much more confidence. <br/>
